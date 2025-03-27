@@ -22,8 +22,20 @@ Timely delivery is crucial for the following reasons;
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 How effective cost control contributes to software project success;
 1. Prevent budget overruns-keeping costs in check ensures the project stays within financial limits, avoiding the need for additional funding.
-2. 
+2. Ensures resource optimization; helps allocate funds efficiently, avoiding waste and ensring critical components get adequate funding.
+3. Improves decision making;provides real time financial insights for better project management and quick corrective actions.
+4. Builds stakeholder confidence; staying within budget ressures stakeholders of good project governance and improves credibility.
+5. Reduces project risks; helps identify and mitigate financial risks early, avoiding delays and scope cuts.
+6. Support long term planning; effective budgeting and tracking allow better planning for future phases or related projects.
+   Strategies to prevent budget overruns;
+   1. Detailed project planning; break down the project into phases, tasks and deliverables with associated costs.
+   2. Clear scope definition; clearly define project scope and avoid scope creep by having a change management process.
+   3. Use of Agile Methodology; Agile allows for incremental delivery, frequent review and easier adjustments without derailing the whole budget.
+   4. Accurate estimations; use historical data, expert judgement and estimation techniques like function point analysis or three point estimation.
+   5. Regular monitoring and reporting; use tools like Jira,Trello or Microsoft project to track expenses and milestones .Set regular budget reviews.
+   6. Contingency budgeting; allocate 10-20% of the total budget for unforeseen issues or risks.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
