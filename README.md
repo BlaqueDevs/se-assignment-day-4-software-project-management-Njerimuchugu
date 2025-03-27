@@ -35,8 +35,33 @@ How effective cost control contributes to software project success;
    5. Regular monitoring and reporting; use tools like Jira,Trello or Microsoft project to track expenses and milestones .Set regular budget reviews.
    6. Contingency budgeting; allocate 10-20% of the total budget for unforeseen issues or risks.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-
+Agile methodology;
+Agile is an iterative and incremental approach that emphasizes flexibility,collaboration and customer feedback. Projects are divided into small units called sprints typically lasting 1-4 weeks, allowing continuous reassessment and adaptation throughout the project lifecycle.
+Advantages;
+1. Flexibility and adaptability; changes can be made even late in the development process.
+2. Continuous feedback; stakeholders and users can review progress regularly and suggest improvements.
+3. Faster delivery; working software is delivered frequently allowing quicker responses.
+4. Improved collaboration; Agile promotes teamwork and regular communication through stand ups and reviews.
+5. Higher quality; continuous testing and integration help catch issues early.
+   Disadvantages;
+   1. Less predictability; it can be hard to estimate time and cost upfront .
+   2. Scope creep risk; since changes are encouraged projects can expand beyond original plans.
+   3. Requires commitment; teams need to be fully engaged and available which can be demanding.
+   4. Documentation may suffer; Agile focuses more on working software than detailed documentation.
+      Waterfall Methodology
+      It is a linear and sequential approach. The project flows through defined phases-requirements,design,implementation,testing,deployment, and maintenance with each stage completed before moving to the next.
+      Advantages;
+      1. Clear structure; the step by step process is easy to understand and manage.
+      2. Well defined requirements; all requirements are gathered upfront leading to fewer changes later.
+      3. Predictable timelines and budget; since everything is planned at the start it's easier to estimate costs and time.
+      4. Thorough documentation; each phase is well documented which is useful for future reference.
+         Disadvantages
+         1. Inflexibility; changes are difficult and expensive once the project is underway.
+         2. Delayed feedback; stakeholders don't see the product until late in the process which can lead to dissatisfaction.
+         3. Risk of rework; if requirements are misunderstood early fixing mistakes later can be costly.
+         4. Slow to deliver; no functional product is available until the final stages.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
